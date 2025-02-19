@@ -1,0 +1,5 @@
+# Vscode ignore
+.vscode
+.history
+# FreeCad ignore
+*.FCBak
